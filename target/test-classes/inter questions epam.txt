@@ -1,0 +1,86 @@
+SivasankariK96
+
+221237082198-1n5baeean1mc1diarbsuqtpkhjedrvtk.apps.googleusercontent.com
+
+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
+
+
+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
+
+
+Please evaluate on the concepts around OOPS (Object, Class, Inheritance, Polymorphism, Abstraction, Encapsulation) using questions & coding exercisesMethod Overloading/overriding
+Static Objects
+Exception Handing/Throws/Throwable/Clone
+
+Hashcode/Comparator/Comparable
+Arrays- Syntax/Resizing/Sorting
+
+Lambda Expressions and   Functional Interfaces
+Predicate, Function, Consumer and Supplier
+UnaryOperator, BinaryOperator 
+Method reference and constructor reference by :: operator
+Streams API
+Date and Time Api
+
+Collections (Stack, Arrays, Iterable, Lists,LinkedList, Sets, Queues, Maps)  with coding examples.
+Sorting of Collections
+Difference between one collection to another(ArrayList vs LinkedList).
+Sorting of Sets/How Sets store unique elements.
+Fastest collection to access/insert/remove?Like: Setup, configure, Dependencies, Plugins, parameters, transitive dependencies and integration with Jenkins etc.
+
+Check on the implementation of the design patterns in their current pojectCode review approach, use of tools for code review and Clean Code
+
+Should be able to explain the process involved in doing in-sprint automation. Focusing on Planning, Test Design, Automation, communication on status - all cermonies
+
+Should be able to explain - 
+how can a test case/sceanrio/user story - is an automation candidate or not
+Also check on what is ideal automation targets that can be achieved at various layers of the application
+Communication with manual team on Automation priorities and coverage
+Possible Reasons for not automating a test case
+
+Cucumber or JBehave 
+Syntax to write BDD test case
+Difference between Given,Then & When.
+Annotations
+Data Providers
+
+
+
+
+Locators
+XPATH - "/","//","."/Sibling/Child/Parent/Regular Expressions
+Page Object Model - importance/implementation/sample code/access modifiers
+Implicit & Explicit Wait
+Assert & Verify
+Access Modifiers in Automation
+Common Selenium Exceptions in Object Identification
+Enabled vs Displayed
+
+Components
+Good Attributes
+How do you choose framework?
+Automation Approaches
+Grid
+MultiThreaded Program
+Cross Browser Testing
+BrowserStack or SauceLabsAbility to create Jobs & Configure - not covered
+Jenkins Plugins useful for Automation execution
+Serializing and Deserializing Json
+Headers/Token
+REST API samples
+For Various Methodologies (Waterfall, Ietrative, Agile etc..) - What is the approach of testing for different methodologies
+What, When, How to and differences between  various testing types like:
+Unit Testing, Integration Testing, Functional Testing, System Testing, Usability Testing, Acceptance Testing, Regression Testing, Re-Testing, Beta Testing
+Ability to define the strategy for testing as an unit (manual and automation) to be checked 
+What,When, How to and differences between  various test design techniques like:
+BVA, Decision Table Testing, State Transition Testing, Equivalence Class Partitioning, Use Case 
+Testing etc 
+Ability to write simple to complex queries (Joins should be evaluated)
+Bug life Cycle Understanding of defect life cycle, proper defect description, test evidences.
+Able to investigate incidents to provide maximum useful information about them (troubleshooting)     Git Commands
+Pull
+Fetch
+Merge
+Stash
+add
+Merge ConflictsBranching and Mergning Strategy for L4 and above

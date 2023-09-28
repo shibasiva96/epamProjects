@@ -1,0 +1,16 @@
+restTests\AddPlaceWithDeSerialization.class
+ApiHomeTask1\Task2$1.class
+ApiHomeTask2\UsersResource.class
+ApiAuthTests\Oauth2.class
+ApiHomeTask1\Task2.class
+ApiHomeTasks3\WeatherMap.class
+ApiHomeTask2\PostsResource.class
+ApiAuthTests\BasicAuthExample.class
+restTests\AddPlace.class
+ApiAuthTests\ApiKeyAuth.class
+restTests\GetPlace.class
+ApiHomeTasks3\XMLDataTest.class
+restTests\DeletePlace.class
+restTests\GetPlaceWithReqSpec.class
+restTests\UpdatePlace.class
+ApiHomeTask1\AddPet.class

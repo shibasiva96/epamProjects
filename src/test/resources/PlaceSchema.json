@@ -1,0 +1,119 @@
+{
+    "$schema": "https://json-schema.org/draft/2019-09/schema",
+    "$id": "http://example.com/example.json",
+    "type": "object",
+    "default": {},
+    "title": "Root Schema",
+    "required": [
+        "location",
+        "accuracy",
+        "name",
+        "phone_number",
+        "address",
+        "types",
+        "website",
+        "language"
+    ],
+    "properties": {
+        "location": {
+            "type": "object",
+            "default": {},
+            "title": "The location Schema",
+            "required": [
+                "latitude",
+                "longitude"
+            ],
+            "properties": {
+                "latitude": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The latitude Schema",
+                    "examples": [
+                        "-38.383494"
+                    ]
+                },
+                "longitude": {
+                    "type": "string",
+                    "default": "",
+                    "title": "The longitude Schema",
+                    "examples": [
+                        "33.427362"
+                    ]
+                }
+            },
+            "examples": [{
+                "latitude": "-38.383494",
+                "longitude": "33.427362"
+            }]
+        },
+        "accuracy": {
+            "type": "string",
+            "default": "",
+            "title": "The accuracy Schema",
+            "examples": [
+                "50"
+            ]
+        },
+        "name": {
+            "type": "string",
+            "default": "",
+            "title": "The name Schema",
+            "examples": [
+                "Frontline house"
+            ]
+        },
+        "phone_number": {
+            "type": "string",
+            "default": "",
+            "title": "The phone_number Schema",
+            "examples": [
+                "(+91) 983 893 3937"
+            ]
+        },
+        "address": {
+            "type": "string",
+            "default": "",
+            "title": "The address Schema",
+            "examples": [
+                "70 winter walk, USA"
+            ]
+        },
+        "types": {
+            "type": "string",
+            "default": "",
+            "title": "The types Schema",
+            "examples": [
+                "shoe park,shop"
+            ]
+        },
+        "website": {
+            "type": "string",
+            "default": "",
+            "title": "The website Schema",
+            "examples": [
+                "http://google.com"
+            ]
+        },
+        "language": {
+            "type": "string",
+            "default": "",
+            "title": "The language Schema",
+            "examples": [
+                "French-IN"
+            ]
+        }
+    },
+    "examples": [{
+        "location": {
+            "latitude": "-38.383494",
+            "longitude": "33.427362"
+        },
+        "accuracy": "50",
+        "name": "Frontline house",
+        "phone_number": "(+91) 983 893 3937",
+        "address": "70 winter walk, USA",
+        "types": "shoe park,shop",
+        "website": "http://google.com",
+        "language": "French-IN"
+    }]
+}
